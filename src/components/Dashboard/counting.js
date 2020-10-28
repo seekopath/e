@@ -170,6 +170,16 @@ export default function Counting() {
           >
             <MenuIcon />
           </IconButton>
+//           <Typography
+//             component="h1"
+//             variant="h6"
+//             color="inherit"
+//             noWrap
+//             className={classes.title}
+//           >
+//             UMEA ENERGI
+//           </Typography>
+         <img src="assets/image14.png" width="15%"  />
           <Typography
             component="h1"
             variant="h6"
@@ -177,7 +187,7 @@ export default function Counting() {
             noWrap
             className={classes.title}
           >
-            UMEA ENERGI
+            
           </Typography>
           <Typography component="h1" variant="h5">
             Hello,{firebase.getCurrentUsername()}&nbsp;&nbsp;&nbsp;|
