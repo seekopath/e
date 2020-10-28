@@ -35,3 +35,7 @@
 .recharts-wrapper, recharts-surface {
   margin-left: -10%;
 }
+
+.makeStyles-drawerPaper-135 {
+    width: 235px!important;
+}
