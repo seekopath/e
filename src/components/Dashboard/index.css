@@ -31,3 +31,7 @@
 .MuiListItemIcon-root {
     /* justify-content: flex-end!important; */
 }
+
+.recharts-wrapper, recharts-surface {
+  margin-left: -10%;
+}
